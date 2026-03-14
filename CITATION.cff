@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use Seq2Bio in your research, please cite it as below."
+title: "Seq2Bio: A Colab‑based tool for protein‑centric biological context retrieval"
+authors:
+  - family-names: "Vijay"
+    given-names: "Vidhu Smitha"
+version: 1.0.0
+date-released: 2026-03-15
+license: MIT
+doi: 10.5281/zenodo.19014688
+url: "https://colab.research.google.com/drive/16XlTDvXRkk1n6FZpICSYdnraF32TejR1?usp=sharing"
+keywords:
+  - bioinformatics
+  - protein sequence
+  - BLAST
+  - AlphaFold
+  - phylogenetics
+  - Google Colab

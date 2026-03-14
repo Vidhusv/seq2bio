@@ -1,0 +1,9 @@
+biopython==1.85
+requests
+folium
+pandas
+matplotlib
+seaborn
+py3Dmol
+ipywidgets
+tqdm
