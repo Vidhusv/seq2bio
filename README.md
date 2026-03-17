@@ -70,5 +70,13 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 
 ##Acknowledgements
 ColabFold (Mirdita et al. 2022) – Structure prediction engine
+Biopython ([Cock et al. 2009](https://doi.org/10.1093/bioinformatics/btp163)) – Sequence handling and BLAST parsing
+Clustal Omega ([Sievers et al. 2011](https://doi.org/10.1038/msb.2011.75)) – Multiple sequence alignment
+AlphaFold DB ([Varadi et al. 2022](https://doi.org/10.1093/nar/gkab1061)) – Pre-computed protein structures
+iNaturalist – Organism images and observations
+GBIF – Geographic occurrence data
+NCBI – BLAST, Taxonomy, PubMed databases
+UniProt – Protein sequence and mapping services
+
 
 Mascot designed by Vidhu Smitha Vijay
