@@ -4,11 +4,12 @@ title: "Seq2Bio: A Colab‑based tool for protein‑centric biological context r
 authors:
   - family-names: "Vijay"
     given-names: "Vidhu Smitha"
-version: 1.0.0
-date-released: 2026-03-15
+    version: 1.0.0
+date-released: 2026-03-17
 license: MIT
-doi: 10.5281/zenodo.19014688
-url: "https://colab.research.google.com/drive/16XlTDvXRkk1n6FZpICSYdnraF32TejR1?usp=sharing"
+doi: 10.5281/zenodo.19015565
+repository-code: "https://github.com/Vidhusv/seq2bio"
+url: "https://colab.research.google.com/drive/10OdvOBH3KytxNWfwYDXhRTImuhqIGX_R?usp=sharing"
 keywords:
   - bioinformatics
   - protein sequence
@@ -16,3 +17,5 @@ keywords:
   - AlphaFold
   - phylogenetics
   - Google Colab
+  - venom
+  - structure prediction
