@@ -5,5 +5,7 @@ pandas
 matplotlib
 seaborn
 py3Dmol
-ipywidgets
 tqdm
+ipywidgets
+jax==0.4.23
+jaxlib==0.4.23
